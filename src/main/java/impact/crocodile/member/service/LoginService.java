@@ -1,5 +1,5 @@
 package impact.crocodile.member.service;
 
 public class LoginService {
-    // hisㅊㅇ
+    // 로그인
 }
