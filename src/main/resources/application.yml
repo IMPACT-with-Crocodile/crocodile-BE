@@ -1,6 +1,5 @@
 spring:
   datasource:
-    # ?? ????(5000)? DB??(Impact)? ??? ?? ??.
     url: jdbc:mysql://127.0.0.1:5000/Impact?createDatabaseIfNotExist=true
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
